@@ -1,16 +1,28 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm <a href="https://vk.com/zhenia1414" target="_blank">Evgenii</a> </h1>
+<h3 align="center">student YP</h3>
 
-<!--
-**zhukov1414/zhukov1414** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **QA, python, web, Django, SQL, HTML, Bootstrap,**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me **zhukov1414@yandex.ru**
+
+- 🌍 I speak Russian (native)
+
+### Connect with me:
+<p align="left">
+<a href="https://t.me/Root56433" target="blank"><img align="center" src="https://raw.githubusercontent.com/zhukov1414//2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/Telegram.svg" alt="zhukov1414" height="40" width="40" /></a>
+<a href="https://vk.com/zhenia1414" target="blank"><img align="center" src="https://raw.githubusercontent.com/zhukov1414/zhukov1414/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/vk.svg" alt="zhukov1414" height="40" width="40" /></a>
+
+### Languages:
+
+### Tools:
+
+
+### 🧑‍💻 This week I spent my time on
+<!--START_SECTION:waka-->
+
+```text
+Markdown   4 hrs 8 mins    █████████████████████████   100.00 %
+```
+
+<!--END_SECTION:waka-->
