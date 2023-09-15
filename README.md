@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Evgenii Zhukov
 ======================================================================================================================================
-
-I'm a backend developer and someone else
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm a+backend+developer)](https://git.io/typing-svg)
+I'm a backend developer
 ----------------------------------------
 
 I really like development, I'm learning new things and striving for perfection
