@@ -9,6 +9,7 @@ I really like development, I'm learning new things and striving for perfection
 * 🌍  I'm based in Tula
 * ✉️  You can contact me at [https://t.me/Root56433](mailto:https://t.me/Root56433)
 * 🧠  I'm learning YandexPracticum
+[![codewars](https://www.codewars.com/users/zhukov1414/badges/small)](https://www.codewars.com/users/zhukov1414)
 
 ### Skills
 
@@ -23,7 +24,7 @@ I really like development, I'm learning new things and striving for perfection
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
 </p>
-[![codewars](https://www.codewars.com/users/zhukov1414/badges/small)](https://www.codewars.com/users/zhukov1414) 
+
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/zhukov1414" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
