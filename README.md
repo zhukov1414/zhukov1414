@@ -9,7 +9,7 @@ I really like development, I'm learning new things and striving for perfection
 * 🌍  I'm based in Tula
 * ✉️  You can contact me at [https://t.me/Root56433](mailto:https://t.me/Root56433)
 * 🧠  I'm learning YandexPracticum
-[![codewars](https://www.codewars.com/users/zhukov1414/badges/small)](https://www.codewars.com/users/zhukov1414)
+* [![codewars](https://www.codewars.com/users/zhukov1414/badges/small)](https://www.codewars.com/users/zhukov1414)
 
 ### Skills
 
