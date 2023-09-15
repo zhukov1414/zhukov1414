@@ -28,3 +28,6 @@ I really like development, I'm learning new things and striving for perfection
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/zhukov1414" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
